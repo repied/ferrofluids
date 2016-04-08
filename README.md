@@ -1,9 +1,9 @@
 # ferrofluids
 Arduino code to read proximity from 2 infrared sensors, drive 2 electromagnets and animate a ferrofluid sculpture.
 
-  *[Web](https://sites.google.com/site/pierredangauthier/home/noir)
-  *[Pictures](https://goo.gl/photos/tqKLKexmqSTodXV98)
-  *[Videos](https://www.youtube.com/channel/UCY0LABikxcgyDP2GDgEsV_g)
+  * [Web](https://sites.google.com/site/pierredangauthier/home/noir)
+  * [Pictures](https://goo.gl/photos/tqKLKexmqSTodXV98)
+  * [Videos](https://www.youtube.com/channel/UCY0LABikxcgyDP2GDgEsV_g)
 
 Ferrofluid sculptures
 
